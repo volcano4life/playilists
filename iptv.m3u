@@ -85,6 +85,5 @@ https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sport_X1/HLS_encr/TVPlay_Sport_X1.m3u
 https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sports_X2/HLS_encr/TVPlay_Sports_X2.m3u8
 #EXTINF:0 tvg-name="Travel Channel HD", Travel Channel HD
 http://duga.life:8080/ch0063/video.m3u8?token=KIZqoLR8y3
-#EXTINF:-1,EUROSPORT 4K
-#EXTVLCOPT:http-user-agent=rostelecom
+#EXTINF:-1 tvg-name="Eurosport 4K", Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
