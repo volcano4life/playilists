@@ -83,13 +83,3 @@ https://cdn7.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sport_X1/HLS_encr/TVPlay_Sport_X1.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Sport", TVPlay Sports X2
 https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sports_X2/HLS_encr/TVPlay_Sports_X2.m3u8
-#EXTINF:-1,Travel + Adventure
-http://37.76.169.182:4022/udp/225.33.23.53:5000
-#EXTINF:-1,Animal Planet
-http://37.76.169.182:4022/udp/225.33.23.60:5000
-#EXTINF:-1,Discovery Channel
-http://37.76.169.182:4022/udp/225.33.23.59:5000
-#EXTINF:-1,Ocean TV
-http://37.76.169.182:4022/udp/225.33.23.70:5000
-#EXTINF:-1,Viasat Nature
-http://37.76.169.182:4022/udp/225.33.23.80:5000
