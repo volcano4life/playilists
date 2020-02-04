@@ -101,3 +101,5 @@ http://212.121.249.34:8080/foxlife/index.m3u8
 http://212.121.249.34:8080/hollywood/index.m3u8
 #EXTINF:-1,natgeo HD
 http://212.121.249.34:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-premium-lt" type="stream" channelId="2838" group="Lietuviski" logo="http://marsatas.lt/image.jpg?id=1821&size=4", TV3 Film 
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
