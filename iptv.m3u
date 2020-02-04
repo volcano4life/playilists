@@ -15,18 +15,12 @@ https://cdn7.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK.m3u8
 https://cdn7.tvplayhome.lt/live/eds/Lietuvos_Ryto_TV/HLS_encr/Lietuvos_Ryto_TV.m3u8
 #EXTINF:-1 tvg-logo="https://r-scale-64.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939657/images/4502455?dsth=512&dstw=512" group-title="Lithuanian", BTV HD
 http://88.216.80.254:8080/btv_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="//r-scale-c8.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939658/images/4502469?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", TV1
-https://cdn7.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-18.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939659/images/4502483?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="News", Info TV
 https://cdn7.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-5e.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939654/images/4502414?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", LRT Plius
 https://cdn7.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-name="EuroNews" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-e2.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/1048228/images/4512406?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Kids", Nick Junior
 https://cdn7.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1 tvg-logo="//r-scale-f5.static.go3.tv/scale/go3/webuploads/rest/upload/live/939662/images/7151014?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Movies", TV3 Film
-https://cdn7.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-92.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939664/images/5543578?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Movies", TV1000 Action
 https://cdn7.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-2c.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939665/images/5543583?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Movies", TV1000 Ruskoje kino
