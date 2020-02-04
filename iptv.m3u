@@ -83,3 +83,5 @@ https://cdn7.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sport_X1/HLS_encr/TVPlay_Sport_X1.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Sport", TVPlay Sports X2
 https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sports_X2/HLS_encr/TVPlay_Sports_X2.m3u8
+#EXTINF:0 tvg-name="Travel Channel HD", Travel Channel HD
+http://duga.life:8080/ch0063/video.m3u8?token=KIZqoLR8y3
