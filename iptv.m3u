@@ -22,7 +22,7 @@ https://cdn7.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-5e.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939654/images/4502414?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", LRT Plius
 https://cdn7.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-name="EuroNews" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Euronews
-https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-e2.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/1048228/images/4512406?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Kids", Nick Junior
 https://cdn7.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-f5.static.go3.tv/scale/go3/webuploads/rest/upload/live/939662/images/7151014?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Movies", TV3 Film
