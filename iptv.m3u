@@ -3,8 +3,6 @@
 https://cdn7.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-35.static.go3.tv/scale/go3/webuploads/rest/upload/live/939650/images/7151051?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Lithuanian", TV6 LT
 https://cdn7.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD.m3u8
-#EXTINF:0 tvg-name="Viasat Sport HD", Viasat Sport HD
-https://cdn6.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-avc1_5500000=16-mp4a_96000_lit=11.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-3d.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939651/images/3901576?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", TV8 LT
 https://cdn7.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-3e.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939653/images/5572766?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", LRT Televizija
@@ -89,3 +87,17 @@ https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sports_X2/HLS_encr/TVPlay_Sports_X2.m
 http://duga.life:8080/ch0063/video.m3u8?token=KIZqoLR8y3
 #EXTINF:-1 tvg-name="Eurosport 4K", Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1,amc HD
+http://212.121.249.34:8080/amc/index.m3u8
+#EXTINF:-1,fox HD
+http://212.121.249.34:8080/fox/index.m3u8
+#EXTINF:-1,eurosport2 HD
+http://212.121.249.34:8080/eurosport2/index.m3u8
+#EXTINF:-1,natgeowild HD
+http://212.121.249.34:8080/natgeowild/index.m3u8
+#EXTINF:-1,foxlife HD
+http://212.121.249.34:8080/foxlife/index.m3u8
+#EXTINF:-1,hollywood HD
+http://212.121.249.34:8080/hollywood/index.m3u8
+#EXTINF:-1,natgeo HD
+http://212.121.249.34:8080/natgeo/index.m3u8
