@@ -53,8 +53,12 @@ https://cdn7.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC.m3u8
 https://cdn7.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-88.static.go3.tv/scale/go3/webuploads/rest/upload/live/1179183/images/6376570?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Music", My Hits
 https://cdn7.tvplayhome.lt/live/eds/My_Hits/HLS_encr/My_Hits.m3u8
-#EXTINF:-1 tvg-logo="//r-scale-4b.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939672/images/4502546?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Russian", PBK LT
-https://cdn7.tvplayhome.lt/live/eds/PBK_LT/HLS_encr/PBK_LT.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-language="Russian" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Россия 24
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/ont-by.png" tvg-country="BY" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",ОНТ
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-47.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939678/images/4502601?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Russian", Ren TV Baltic LT
 https://cdn7.tvplayhome.lt/live/eds/Ren_TV_LT/HLS_encr/Ren_TV_LT.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-1a.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939675/images/4502561?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Russian", NTV Mir Baltic LT
