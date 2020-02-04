@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="//r-scale-50.static.go3.tv/scale/go3/webuploads/rest/upload/live/939649/images/7151024?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Lithuanian", TV3 LT
 https://cdn7.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1 tvg-id="tv1000-premium-lt" type="stream" channelId="2838" group="Lietuviski" logo="http://marsatas.lt/image.jpg?id=1821&size=4", TV3 Film 
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-35.static.go3.tv/scale/go3/webuploads/rest/upload/live/939650/images/7151051?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Lithuanian", TV6 LT
 https://cdn7.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-3d.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939651/images/3901576?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", TV8 LT
@@ -19,8 +21,8 @@ https://cdn7.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1.m3u8
 https://cdn7.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-5e.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939654/images/4502414?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Lithuanian", LRT Plius
 https://cdn7.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8
-#EXTINF:-1 tvg-logo="//r-scale-7a.static.go3.tv/scale/go3/webuploads/rest/upload/live/1179184/images/7049650?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="News", Euronews
-https://cdn7.tvplayhome.lt/live/eds/Euronews_RUS/HLS_encr/Euronews_RUS.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-name="EuroNews" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Euronews
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-e2.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/1048228/images/4512406?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Kids", Nick Junior
 https://cdn7.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-f5.static.go3.tv/scale/go3/webuploads/rest/upload/live/939662/images/7151014?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="Movies", TV3 Film
@@ -45,6 +47,8 @@ https://cdn7.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u
 https://cdn7.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-b7.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/1048226/images/5543008?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Documentary", NatioNAL Geographic
 https://cdn7.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,natgeo HD
+http://212.121.249.34:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-c2.static.go3.tv/scale/go3/webuploads/rest/upload/live/1179185/images/6376560?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Documentary", Ohota y Ribalka 
 https://cdn7.tvplayhome.lt/live/eds/Ohota_i_Ribalka/HLS_encr/Ohota_i_Ribalka.m3u8
 #EXTINF:-1 tvg-logo="//r-scale-47.static.go3.tv/scale/go3-test/webuploads/rest-uat/upload/live/939669/images/4502531?dsth=512&dstw=512&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="News", BBC World News
@@ -91,9 +95,3 @@ https://cdn7.tvplayhome.lt/live/eds/TVPlay_Sports_X2/HLS_encr/TVPlay_Sports_X2.m
 http://duga.life:8080/ch0063/video.m3u8?token=KIZqoLR8y3
 #EXTINF:-1 tvg-name="Eurosport 4K", Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1,natgeo HD
-http://212.121.249.34:8080/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-premium-lt" type="stream" channelId="2838" group="Lietuviski" logo="http://marsatas.lt/image.jpg?id=1821&size=4", TV3 Film 
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network 
-http://89.28.21.85/Cartoon_Network/tracks-v1a1/index.m3u8?token=vsesuda
